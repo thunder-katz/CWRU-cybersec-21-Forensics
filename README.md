@@ -25,8 +25,6 @@ Just as in a real-world scenario, you will complete a final report to present yo
 
 - You will find the `tracy-phone-2012-07-15.final.E01` file located in the `/corpus` directory in Autopsy.
 
-
-
 ### Instructions
 
 You've examined and documented quite a bit of information from the iPhone image file. Now you will use that documentation to build a final report.
@@ -41,13 +39,7 @@ You've examined and documented quite a bit of information from the iPhone image 
 
        - **Note:** Input GPS coordinates into Google Maps to see the locations.
 
-       - Refer to the image below as an example:
-
-       ![Google-GPS](Images/Google-GPS.png)
-
      - Find information related to WiFi and cell tower location information in `consolidated.db`.
-
-        ![Google-GPS](Images/WiFi_Cell.png)
 
 2. Working in your group's copy of the report template, add content and details as indicated in each section.
 
